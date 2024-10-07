@@ -1,0 +1,44 @@
+                                                                          Review Note 
+==========Data Type=========
+
+1. integer => 0, 1, 2, 3, 4, -1, -3
+2. float/double => 0.2, 4.5, 7777.7777, -9.39
+3. string => This is our js class, apple, r                            /     kotion ('') /("")
+4. Boolean => true/false
+5. Object => {name: "suzuki", color: "black", engine: "150cc", price: 375000}
+=========Operator==========
+1. Arithmetic Operator (+, -, *, /, %, ++, --)
+2. Assignment Operator ( , +=, -=)
+3. Logical Operator (||, &&, !)
+4. Relational Operator/Comparison Operator (<, >, <=, >=, !=, ==, ===)
+10 == 10 =>true 10 == 10.0 true 10 === 10.0 =>false
+   
+                                                                     
+                                                                        
+                                                                        Class-27 
+
+ =========Conditional Statement==========
+
+if(condition){
+    //Statement.....
+}
+
+else if(condition){
+    //Statement....
+}
+
+else if (condition){
+    //Statement...
+}
+
+else{
+    //Statement....
+}
+
+
+
+
+Rahim => Bike  => Dinner
+Karim => Car   => Cox's Bazar 
+Rafiq => Cycle => Field
+otherwise => Sleep                                                                       
